@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my public projects are available in this github [https://github.com/12-AD](https://github.com/12-AD)
 
-- 📫 How to reach me **12_AD#6023 / 12_AD wants chezburger#6023**
+- 📫 How to reach me **Abd#6023 / (i change my tag a lot so you can see me with my id '849860558211907584')**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
