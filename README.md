@@ -1,20 +1,36 @@
-<h1 align="center">Hi 👋, I'm Abd</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+# 👋 Welcome to My GitHub Profile!
 
-- 🔭 I’m currently working on **A minecraft 1.8.9 Client**
+Hello there! I'm Artur, a passionate developer who loves working with a variety of programming languages and technologies. 🚀
 
-- 🌱 I’m currently learning **Java**
+## 🛠️ Languages & Technologies
 
-- 🤝 I’m looking for help with **Visual Designs for client**
+I have experience with the following:
 
-- 👨‍💻 All of my public projects are available in this github [https://github.com/12-AD](https://github.com/12-AD)
+- 💻 **Java** - Object-Oriented Programming & Application Development
+- 🐍 **Python** - Scripting, Data Science, and Automation
+- 🎮 **Unreal Engine** - Game Development, Blueprint Scripting, C++ integration
+- 🤖 **Arduino** - Electronics, IoT, and Hardware Projects
+- 🌐 **C++** - Performance-Critical Software Development
 
-- 📫 How to reach me **Abd#6023 / (i change my tag a lot so you can see me with my id '849860558211907584')**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🚀 Current Focus
+Right now, I’m diving deep into **ESP32s**! 🧠💡
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
+## 🤝 Connect with Me
+
+Let's chat! I'm always up for discussing new ideas, collaborations, or helping others out. Reach out to me on any of the following platforms:
+
+- Discord: @12_ad
+- Instagram: 299_bc
+
+
+---
+
+Thank you for checking out my profile! Feel free to explore my repositories and reach out if you’d like to collaborate. 😄
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*  
